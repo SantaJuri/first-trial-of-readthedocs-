@@ -6,7 +6,6 @@ Erstellen einer Doku für readTheDocks mit Sphinx:
 ============================
 * https://github.com/DevDungeon/reStructuredText-Documentation-Reference
 
-
 Lokal:
 ======
 
@@ -54,7 +53,6 @@ Diese Seite als "raw code":
 	============================
 	* https://github.com/DevDungeon/reStructuredText-Documentation-Reference
 
-
 	Lokal:
 	======
 
@@ -88,6 +86,3 @@ Diese Seite als "raw code":
 
 	* ==>
 		    + das index.html file ist im /docs/build/html     ordner verfügbar und kann z.B. mit Firefox geöffnet werden
-
-
-
