@@ -31,7 +31,8 @@ Lokal:
     cd docs
     make html
 
-        + ==> das index.html file ist im /docs/build/html     ordner verfügbar und kann z.B. mit Firefox geöffnet werden
+        + ==> das index.html file ist im /docs/build/html ordner verfügbar 
+	  und kann z.B. mit Firefox geöffnet werden
 
 * Nun im ReadTheDocs-Admin Center das Repo hinzufügen und die Branches verwalten (wenn noch nicht geschehen - WebHook im GitLab einrichten)
 
