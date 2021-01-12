@@ -22,7 +22,7 @@ Lokal:
     
 * das "docs" erstellt automatisch einen Ordner "docs" in dem die Doku-Files und Make-Files (make.bat) liegen werden
 
-        + ==> standards verwenden & Projektnamen (+ aktuelle Projektversion) eingeben (… Min. 33:27 (kurz) oder 17:00 (lang - mit erklärung) .. )
+        + ==> standards verwenden bzw. geeignete Einstellungen wählen
 
 * Um nun aus den .txt oder .rst (restructuredtext) Dateien die fertige Doku-Seite (i.d.R. html) zu machen verwende:
 
